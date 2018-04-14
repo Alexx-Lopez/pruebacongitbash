@@ -19,7 +19,7 @@ namespace proyectito
 
         private void Form1_Load( object sender, EventArgs e )
         {
-            //hola putito
+            //hola putita
             //cambios en la rama 1
 
             //cambios desde la rama
