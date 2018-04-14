@@ -22,5 +22,10 @@ namespace proyectito
             //hola
             //cambios en la rama 1
         }
+
+        public void funcion1()
+        {
+            //procesos
+        }
     }
 }
