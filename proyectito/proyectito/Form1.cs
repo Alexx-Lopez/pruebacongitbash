@@ -29,5 +29,10 @@ namespace proyectito
         {
             //procesos
         }
+
+        public void funcion2()
+        {
+            //procesos para la funcion
+        }
     }
 }

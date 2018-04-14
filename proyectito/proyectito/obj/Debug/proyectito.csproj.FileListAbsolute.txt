@@ -1,1 +1,2 @@
 C:\Users\Alexx\Desktop\GIT-BASH\proyectito\proyectito\bin\Debug\proyectito.exe.config
+C:\Users\Alexx López\Desktop\GIT-BASH\pruebacongitbash\proyectito\proyectito\bin\Debug\proyectito.exe.config
